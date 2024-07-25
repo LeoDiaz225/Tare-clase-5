@@ -1,4 +1,4 @@
-# Tare-clase-5
+# Tarea-clase-5
 
 Retomar el ejercicio del formulario de registro de las primeras clases y adaptarlo utilizando Bootstrap.
 

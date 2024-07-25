@@ -1,0 +1,75 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+}
+
+#emailHelp {
+    font-size: 15px;
+}
+
+#nombreHelp {
+    font-size: 15px;
+}
+
+#apellidoHelp {
+    font-size: 15px;
+}
+ 
+#darkmode {
+    display: flex;
+    justify-content: left; 
+    margin-top: 1rem;
+    margin-left: -1rem;
+    
+}
+
+#toggleDarkMode {
+    width: 100%; 
+    max-width: 150px; 
+    padding: .5rem;
+    font-size: 1rem;
+    border-radius: 10px;
+}
+
+body.dark-mode {
+    background-color: #0B0A0A;
+    color: #ffffff;
+}
+
+.dark-mode{
+    background-color: #3f3f3f;
+}
+
+.bg-dark-opacity {
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.text-shadow {
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+}
+  
+
+.custom-size {
+    width: 100px;
+    height: 100px;
+}
+
+
+.error-message {
+    color: red;
+    margin-top: 5px;
+    font-size: 12px;
+}
+
+.error {
+    border: 2px solid red;
+}
+
+input.error {
+    border: 2px solid red;
+}
+
+
+
